@@ -1,0 +1,7 @@
+# UniDepthV2 depth head config (weights are downloaded from Hugging Face by default, see src/model/model_wrapper.py)
+
+_target_: src.model.encoder.heads.depth_head.create_depth_head
+
+
+config_path: "config/model/encoder/head/config_v2_vitl14.json"
+weight_path: "pretrained_weights/unidepth-v2-vitl14-deep-weights.pth"
