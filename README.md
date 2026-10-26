@@ -206,7 +206,7 @@ Please also cite the base works:
 @inproceedings{piccinelli2025unidepthv2,
   title     = {UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler},
   author    = {Piccinelli, Luigi and Sakaridis, Christos and Yang, Yung-Hsu and Segu, Mattia and Li, Siyuan and Abbeloos, Wim and Van Gool, Luc},
-  booktitle = {arXiv preprint arXiv:2502.20110},
+  journal   = {arXiv preprint arXiv:2502.20110},
   year      = {2025}
 }
 ```
